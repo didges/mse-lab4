@@ -1,2 +1,2 @@
-def sum_plus_one(x, y):
-    return x+y+1
+def sum_plus_two(x, y):
+    return x+y+2
