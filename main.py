@@ -1,4 +1,4 @@
-from math import sum_plus_one
+from math import sum_plus_two
 
 print("Hello world!")
-print(sum_plus_one(1, 4))
+print(sum_plus_two(1, 4))
